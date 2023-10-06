@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Science Analyst
 --------------------
 
-I am a Final year student at Annamalai University with a major in Computer Science And Engineering. My goal is to get a job in Data Science field after graduating. I am currently working with an Data Science Intern company as a remote worker .I enjoy solving technical problems, researching and developing Machine Learning Models. I am a quick learner with a fun, outgoing personality. In addition, I excel in my ability to work under pressure and handle stressful situations very well.
+I am a Final year student at Annamalai University with a major in Computer Science And Engineering. As a dedicated Computer Science student, I possess a strong foundation in statistical programming, and machine learning. With hands-on experience in data preprocessing, analysis and model development, I've implemented predictive and classification models using Pythonand SQL. Eager to apply my skills to real-world projects and contribute to innovative data-drivensolutions.
 
 * 🌍  I'm based in Tamil Nadu ,India
 * ✉️  You can contact me at [aruneswaranab@gmail.com](mailto:aruneswaranab@gmail.com)
@@ -13,6 +13,8 @@ I am a Final year student at Annamalai University with a major in Computer Scien
 
 <a href="https://www.github.com/ab-aruneswaran" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ab-aruneswaran?logo=github&style=for-the-badge&color=444e59&labelColor=000000" /></a>
+
+![](https://komarev.com/ghpvc/?username=ab-aruneswaran&label=PROFILE+VIEWS)
 
 ### Skills
 

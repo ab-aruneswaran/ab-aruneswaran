@@ -6,7 +6,7 @@ Data Science Analyst
 
 I am a Final year student at Annamalai University with a major in Computer Science And Engineering. As a dedicated Computer Science student, I possess a strong foundation in statistical programming, and machine learning. With hands-on experience in data preprocessing, analysis and model development, I've implemented predictive and classification models using Pythonand SQL. Eager to apply my skills to real-world projects and contribute to innovative data-drivensolutions.
 
-* 🌍  I'm based in Tamil Nadu ,India
+* 🌍  I'm based in Thiruvarur ,TamilNadu
 * ✉️  You can contact me at [aruneswaranab@gmail.com](mailto:aruneswaranab@gmail.com)
 * 🧠  I'm learning Data Analysis Using Power Bi
 * 🤝  I'm open to collaborating on Data Science Projects

@@ -6,7 +6,7 @@ Data Science Analyst
 
 I am a Final year student at Annamalai University with a major in Computer Science And Engineering. As a dedicated Computer Science student, I possess a strong foundation in statistical programming, and machine learning. With hands-on experience in data preprocessing, analysis and model development, I've implemented predictive and classification models using Pythonand SQL. Eager to apply my skills to real-world projects and contribute to innovative data-drivensolutions.
 
-* 🌍  I'm based in Thiruvarur ,TamilNadu
+* 🌍  I'm based in Thiruvarur , TamilNadu
 * ✉️  You can contact me at [aruneswaranab@gmail.com](mailto:aruneswaranab@gmail.com)
 * 🧠  I'm learning Data Analysis Using Power Bi
 * 🤝  I'm open to collaborating on Data Science Projects
@@ -39,5 +39,9 @@ src="https://img.shields.io/github/followers/ab-aruneswaran?logo=github&style=fo
 <div width="100%" align="center"><a href="https://github.com/ab-aruneswaran/Car_Price_Prediction" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ab-aruneswaran&repo=Car_Price_Prediction&title_color=6366f1&text_color=ffffff&icon_color=444e59&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/ab-aruneswaran/Mern_Flipcart" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ab-aruneswaran&repo=Mern_Flipcart&title_color=6366f1&text_color=ffffff&icon_color=444e59&bg_color=000000&hide_border=true&locale=en" /></a></div>
 
 <br /><br /><br /><br /><br />
+
+### Resume 
+
+![ARUNESWARAN A B  CV IMG](https://github.com/ab-aruneswaran/ab-aruneswaran/assets/77491607/fcd89af3-bdfd-4251-84e3-288d08faff71)
 
 

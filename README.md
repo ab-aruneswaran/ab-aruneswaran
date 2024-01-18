@@ -4,12 +4,13 @@ Hi 👋 My name is Aruneswaran A B
 Data Analyst
 --------------------
 
-I am a Final year student at Annamalai University with a major in Computer Science And Engineering. As a dedicated Computer Science student, I possess a strong foundation in statistical programming, and machine learning. With hands-on experience in data preprocessing, analysis and model development, I've implemented predictive and classification models using Pythonand SQL. Eager to apply my skills to real-world projects and contribute to innovative data-drivensolutions.
+I am a Final year student at Annamalai University with a major in Computer Science And Engineering. As a dedicated Computer Science student, I possess a strong foundation in statistical
+programming, machine learning, Analytical Techniques. With hands-on experience in data cleaning, transformation, analysis, and model development, I've implemented predictive and classification models using Python and SQL. Eager to apply my skills to real-world projects and contribute to innovative Data-Driven Insights and Solutions.
 
-* 🌍  I'm based in Thiruvarur , TamilNadu
+* 🌍  I'm based in Thiruvarur , TamilNadu.
 * ✉️  You can contact me at [aruneswaranab@gmail.com](mailto:aruneswaranab@gmail.com)
-* 🧠  I'm learning Data Analysis using Power BI and Microsoft Excel
-* 🤝  I'm open to collaborating on Data Science Projects
+* 🧠  I'm learning Data Analysis using Power BI and Microsoft Excel.
+* 🤝  I'm open to collaborating on Data Science and Data Analysis Projects.
 
 <a href="https://www.github.com/ab-aruneswaran" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ab-aruneswaran?logo=github&style=for-the-badge&color=444e59&labelColor=000000" /></a>
@@ -46,6 +47,8 @@ src="https://img.shields.io/github/followers/ab-aruneswaran?logo=github&style=fo
 <div width="100%" align="center"><a href="https://github.com/ab-aruneswaran/Car_Price_Prediction" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ab-aruneswaran&repo=Car_Price_Prediction&title_color=6366f1&text_color=ffffff&icon_color=444e59&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/ab-aruneswaran/Mern_Flipcart" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ab-aruneswaran&repo=Mern_Flipcart&title_color=6366f1&text_color=ffffff&icon_color=444e59&bg_color=000000&hide_border=true&locale=en" /></a></div>
 
 <br /><br /><br /><br /><br />
+
+
 
 ### Resume 
 

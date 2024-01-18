@@ -1,14 +1,14 @@
 Hi 👋 My name is Aruneswaran A B
 =======================================================================================================================================
 
-Data Science Analyst
+Data Analyst
 --------------------
 
 I am a Final year student at Annamalai University with a major in Computer Science And Engineering. As a dedicated Computer Science student, I possess a strong foundation in statistical programming, and machine learning. With hands-on experience in data preprocessing, analysis and model development, I've implemented predictive and classification models using Pythonand SQL. Eager to apply my skills to real-world projects and contribute to innovative data-drivensolutions.
 
 * 🌍  I'm based in Thiruvarur , TamilNadu
 * ✉️  You can contact me at [aruneswaranab@gmail.com](mailto:aruneswaranab@gmail.com)
-* 🧠  I'm learning Data Analysis Using Power Bi
+* 🧠  I'm learning Data Analysis using Power BI and Microsoft Excel
 * 🤝  I'm open to collaborating on Data Science Projects
 
 <a href="https://www.github.com/ab-aruneswaran" target="_blank" rel="noreferrer"><img

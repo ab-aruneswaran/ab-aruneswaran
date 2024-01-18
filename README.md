@@ -50,5 +50,6 @@ src="https://img.shields.io/github/followers/ab-aruneswaran?logo=github&style=fo
 ### Resume 
 
 ![ARUNESWARAN A B  CV IMG](https://github.com/ab-aruneswaran/ab-aruneswaran/assets/77491607/fcd89af3-bdfd-4251-84e3-288d08faff71)
+![ARUNESWARAN A B  CV IMG](https://github.com/ab-aruneswaran/Resume/blob/main/ARUNESWARAN%20A%20B%20%20CV%20IMG.jpg)
 
 

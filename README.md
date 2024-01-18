@@ -41,17 +41,12 @@ src="https://img.shields.io/github/followers/ab-aruneswaran?logo=github&style=fo
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/ab-aruneswaran/Iris_Flower_Classification" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ab-aruneswaran&repo=Iris_Flower_Classification&title_color=6366f1&text_color=ffffff&icon_color=444e59&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/ab-aruneswaran/IPL_2022_Analysis" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ab-aruneswaran&repo=IPL_2022_Analysis&title_color=6366f1&text_color=ffffff&icon_color=444e59&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
+<br /><br />
 <div width="100%" align="center"><a href="https://github.com/ab-aruneswaran/Car_Price_Prediction" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ab-aruneswaran&repo=Car_Price_Prediction&title_color=6366f1&text_color=ffffff&icon_color=444e59&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/ab-aruneswaran/Mern_Flipcart" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ab-aruneswaran&repo=Mern_Flipcart&title_color=6366f1&text_color=ffffff&icon_color=444e59&bg_color=000000&hide_border=true&locale=en" /></a></div>
-
-<br /><br /><br /><br /><br />
-
-
+<br /><br /><br /><br /><br /><br /><br />
 
 ### Resume 
 
-![ARUNESWARAN A B  CV IMG](https://github.com/ab-aruneswaran/ab-aruneswaran/assets/77491607/fcd89af3-bdfd-4251-84e3-288d08faff71)
+![ARUNESWARAN A B  CV IMG](https://github.com/ab-aruneswaran/Resume/blob/main/ARUNESWARAN_A_B_IMG.jpg)
 
 

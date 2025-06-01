@@ -11,7 +11,7 @@ I am a dedicated SQLServer Database Administrator with hands-on experience in T-
 
 * 🌍  I'm based in Bangalore , Karnataka.
 * ✉️  You can contact me at [aruneswaranab@gmail.com](mailto:aruneswaranab@gmail.com)
-* 🧠  I'm learning ETL using Visual Studio 
+* 🧠  I'm learning ETL Processing using Visual Studio 
 * 🤝  I'm open to collaborating on  Database Migration and ETL SSIS Package Migration Project.
 
 <a href="https://www.github.com/ab-aruneswaran" target="_blank" rel="noreferrer"><img
@@ -32,7 +32,6 @@ src="https://img.shields.io/github/followers/ab-aruneswaran?logo=github&style=fo
  &nbsp;&nbsp;
  <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="36" height="36" alt="Oracle" />
-        <br><small>Oracle</small>
    </a>
 &nbsp;&nbsp;
  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
@@ -47,7 +46,9 @@ src="https://img.shields.io/github/followers/ab-aruneswaran?logo=github&style=fo
  
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/ab-aruneswaran" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ab-aruneswaran" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture>   </a>
+<p align="left"> 
+ <a href="https://www.github.com/ab-aruneswaran" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ab-aruneswaran" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture>   </a>
+ &nbsp;&nbsp;
    <a href="http://www.instagram.com/ab_aruneswaran" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a></p>
 
 

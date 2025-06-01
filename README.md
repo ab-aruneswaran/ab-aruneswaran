@@ -1,4 +1,9 @@
-Hi 👋 My name is ARUNESWARAN A B
+<h2 align="left">
+  <h1 align="left">
+  Hello Everyone! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif?raw=true" width="30" height="30" /> I'm ARUNESWARAN A B
+</h1>
+
+</h2>
 =======================================================================================================================================
 
 SQL Server Database Administrator

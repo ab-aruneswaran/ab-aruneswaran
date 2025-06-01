@@ -4,7 +4,7 @@ Hi 👋 My name is ARUNESWARAN A B
 SQL Server Database Administrator
 --------------------
 
-I am a dedicatedSQLServer Database Administrator with hands-on experience in T-SQL, performance tuning,
+I am a dedicated SQLServer Database Administrator with hands-on experience in T-SQL, performance tuning,
  backups, query optimization, and automation. I specialize in ensuring system reliability and high availability through proactive
  monitoring and issue resolution. Passionate about delivering efficient, data-driven solutions, I continuously seek to enhance my
  skills in enterprise database environments.
@@ -24,6 +24,15 @@ src="https://img.shields.io/github/followers/ab-aruneswaran?logo=github&style=fo
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+ <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="36" height="36" alt="SQL Server" />
+  </a>
+ <a href="https://learn.microsoft.com/en-us/sql/integration-services/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/external-flat-juicy-fish/60/null/external-data-engineering-coding-and-development-flat-flat-juicy-fish.png" width="36" height="36" alt="SSIS" />
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="36" height="36" alt="Power BI" />
+  </a>
 </p>
 
 
@@ -47,8 +56,5 @@ src="https://img.shields.io/github/followers/ab-aruneswaran?logo=github&style=fo
 <div width="100%" align="center"><a href="https://github.com/ab-aruneswaran/Car_Price_Prediction" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ab-aruneswaran&repo=Car_Price_Prediction&title_color=6366f1&text_color=ffffff&icon_color=444e59&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/ab-aruneswaran/Mern_Flipcart" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ab-aruneswaran&repo=Mern_Flipcart&title_color=6366f1&text_color=ffffff&icon_color=444e59&bg_color=000000&hide_border=true&locale=en" /></a></div>
 <br /><br /><br /><br /><br /><br /><br />
 
-### Resume 
-
-![ARUNESWARAN A B  CV IMG](https://github.com/ab-aruneswaran/Resume/blob/main/ARUNESWARAN_A_B_IMG.jpg)
 
 

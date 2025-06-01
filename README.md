@@ -22,23 +22,57 @@ src="https://img.shields.io/github/followers/ab-aruneswaran?logo=github&style=fo
 
 ### Skills
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-</a>
- &nbsp;&nbsp;
- <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
- </a>
-  &nbsp;&nbsp;
- <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
- </a>
- &nbsp;&nbsp;
- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
- </a>
- &nbsp;&nbsp;
- <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="36" height="36" alt="SQL Server" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
+        <br><small>Python</small>
+      </a>
+    </td>
+    <td>&nbsp;&nbsp;&nbsp;</td>
+
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
+        <br><small>HTML5</small>
+      </a>
+    </td>
+    <td>&nbsp;&nbsp;&nbsp;</td>
+
+    <td align="center">
+      <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
+        <br><small>CSS3</small>
+      </a>
+    </td>
+    <td>&nbsp;&nbsp;&nbsp;</td>
+
+    <td align="center">
+      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
+        <br><small>MongoDB</small>
+      </a>
+    </td>
+    <td>&nbsp;&nbsp;&nbsp;</td>
+
+    <td align="center">
+      <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="36" height="36" alt="SQL Server" />
+        <br><small>SQL Server</small>
+      </a>
+    </td>
+    <td>&nbsp;&nbsp;&nbsp;</td>
+
+    <td align="center">
+      <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="36" height="36" alt="Oracle" />
+        <br><small>Oracle</small>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 ### Socials

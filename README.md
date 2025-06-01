@@ -1,16 +1,18 @@
-Hi 👋 My name is Aruneswaran A B
+Hi 👋 My name is ARUNESWARAN A B
 =======================================================================================================================================
 
-Data Analyst
+SQL Server Database Administrator
 --------------------
 
-I am a Final year student at Annamalai University with a major in Computer Science And Engineering. As a dedicated Computer Science student, I possess a strong foundation in statistical
-programming, machine learning, Analytical Techniques. With hands-on experience in data cleaning, transformation, analysis, and model development, I've implemented predictive and classification models using Python and SQL. Eager to apply my skills to real-world projects and contribute to innovative Data-Driven Insights and Solutions.
+I am a dedicatedSQLServer Database Administrator with hands-on experience in T-SQL, performance tuning,
+ backups, query optimization, and automation. I specialize in ensuring system reliability and high availability through proactive
+ monitoring and issue resolution. Passionate about delivering efficient, data-driven solutions, I continuously seek to enhance my
+ skills in enterprise database environments.
 
-* 🌍  I'm based in Thiruvarur , TamilNadu.
+* 🌍  I'm based in Bangalore , Karnataka.
 * ✉️  You can contact me at [aruneswaranab@gmail.com](mailto:aruneswaranab@gmail.com)
-* 🧠  I'm learning Data Analysis using Power BI and Microsoft Excel.
-* 🤝  I'm open to collaborating on Data Science and Data Analysis Projects.
+* 🧠  I'm learning ETL using Visual Studio 
+* 🤝  I'm open to collaborating on  Database Migration and ETL SSIS Package Migration Project.
 
 <a href="https://www.github.com/ab-aruneswaran" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ab-aruneswaran?logo=github&style=for-the-badge&color=444e59&labelColor=000000" /></a>
